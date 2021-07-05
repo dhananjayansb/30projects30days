@@ -240,3 +240,8 @@ body {
   text-align: center;
   line-height: 1.6;
 }
+
+.switch_link
+{
+  color: #ff0000;
+}
