@@ -9,4 +9,4 @@ Will be Updated Daily until 30 Days.
 | :---:        |    :---:   |    :---:
 | 01       | [Glowing Neon Buttons](https://github.com/dhananjayansb/30Projects30Days/tree/master/1-glowing-neon-buttons)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/1-glowing-neon-buttons/)  
 | 02       | [Neumorphism Login Form](https://github.com/dhananjayansb/30Projects30Days/tree/master/2-neumorphism-login-form)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/2-neumorphism-login-form/) 
-| 03       | [Neumorphism Login Form](https://github.com/dhananjayansb/30Projects30Days/tree/master/3-popup-social-icons)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/3-popup-social-icons/)
+| 03       | [Popup Social Icons](https://github.com/dhananjayansb/30Projects30Days/tree/master/3-popup-social-icons)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/3-popup-social-icons/)
