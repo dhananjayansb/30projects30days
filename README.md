@@ -16,5 +16,5 @@ Will be Updated Daily until 30 Days.
 | 07       | [Feedback Form](https://github.com/dhananjayansb/30Projects30Days/tree/master/7-feedback-ui-design)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/7-feedback-ui-design/)
 | 08       | [Blurry Loading Page](https://github.com/dhananjayansb/30Projects30Days/tree/master/8-blurry-loading)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/8-blurry-loading/)
 | 09       | [Theme Clock](https://github.com/dhananjayansb/30Projects30Days/tree/master/9-theme-clock)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/9-theme-clock/)
-| 10       | [Form Wave Input](https://github.com/dhananjayansb/30Projects30Days/tree/master/10-form-wave-input)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/10-form-wave-input/)
+| 10       | [Form Input Wave](https://github.com/dhananjayansb/30Projects30Days/tree/master/10-form-input-wave)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/10-form-input-wave/)
 
