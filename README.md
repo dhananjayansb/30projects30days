@@ -21,3 +21,4 @@ Will be Updated Daily until 30 Days.
 | 12       | [Image Carousel](https://github.com/dhananjayansb/30Projects30Days/tree/master/12-image-carousel)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/12-image-carousel/)
 | 13       | [Auto Text Effect](https://github.com/dhananjayansb/30Projects30Days/tree/master/13-auto-text-effect)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/13-auto-text-effect/)
 | 14       | [Pokedex](https://github.com/dhananjayansb/30Projects30Days/tree/master/14-pokedex)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/14-pokedex/)
+| 15       | [Pokedex](https://github.com/dhananjayansb/30Projects30Days/tree/master/15-glassmorp-calculator)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/15-glassmorp-calculator/)
