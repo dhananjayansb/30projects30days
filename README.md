@@ -22,4 +22,4 @@ Will be Updated Daily until 30 Days.
 | 13       | [Auto Text Effect](https://github.com/dhananjayansb/30Projects30Days/tree/master/13-auto-text-effect)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/13-auto-text-effect/)
 | 14       | [Pokedex](https://github.com/dhananjayansb/30Projects30Days/tree/master/14-pokedex)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/14-pokedex/)
 | 15       | [GlassMorphism Calculator](https://github.com/dhananjayansb/30Projects30Days/tree/master/15-glassmorp-calculator)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/15-glassmorp-calculator/)
-| 16       | [Custom Range Slider](https://github.com/dhananjayansb/30Projects30Days/tree/master/15-glassmorp-calculator)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/15-glassmorp-calculator/)
+| 16       | [Custom Range Slider](https://github.com/dhananjayansb/30Projects30Days/tree/master/16-custom-range-slider)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/16-custom-range-slider/)
