@@ -26,3 +26,4 @@ Will be Updated Daily until 30 Days.
 | 17       | [Image with titleon hover](https://github.com/dhananjayansb/30Projects30Days/tree/master/17-image-with-titleon-hover)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/17-image-with-titleon-hover/)
 | 18       | [Hover Effect](https://github.com/dhananjayansb/30Projects30Days/tree/master/18-hover-effect)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/18-hover-effect/)
 | 19       | [Quiz App](https://github.com/dhananjayansb/30Projects30Days/tree/master/19-quiz-app)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/19-quiz-app/)
+| 20       | [OTP Verification](https://github.com/dhananjayansb/30Projects30Days/tree/master/20-verify-account-ui)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/20-verify-account-ui/)
