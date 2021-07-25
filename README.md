@@ -27,3 +27,5 @@ Will be Updated Daily until 30 Days.
 | 18       | [Hover Effect](https://github.com/dhananjayansb/30Projects30Days/tree/master/18-hover-effect)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/18-hover-effect/)
 | 19       | [Quiz App](https://github.com/dhananjayansb/30Projects30Days/tree/master/19-quiz-app)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/19-quiz-app/)
 | 20       | [OTP Verification](https://github.com/dhananjayansb/30Projects30Days/tree/master/20-verify-account-ui)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/20-verify-account-ui/)
+| 21       | [Drink Water Meter](https://github.com/dhananjayansb/30Projects30Days/tree/master/21-drink-water)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/21-drink-water/)
+| 22       | [Hoverboard](https://github.com/dhananjayansb/30Projects30Days/tree/master/22-hoverboard)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/22-hoverboard/)
