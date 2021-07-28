@@ -31,3 +31,4 @@ Will be Updated Daily until 30 Days.
 | 22       | [Hoverboard](https://github.com/dhananjayansb/30Projects30Days/tree/master/22-hoverboard)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/22-hoverboard/)
 | 23       | [Keycodes](https://github.com/dhananjayansb/30Projects30Days/tree/master/23-event-keycodes)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/23-event-keycodes/)
 | 24       | [Navbar Animation](https://github.com/dhananjayansb/30Projects30Days/tree/master/24-navbar-animation)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/24-navbar-animation/)
+| 25       | [Password Validation](https://github.com/dhananjayansb/30Projects30Days/tree/master/25-password-validation)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/25-password-validation/)
