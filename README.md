@@ -1,5 +1,5 @@
 # 30 Projects in 30 Days - HTML CSS
-# Best to view in Desktop :)
+# Best to view in Desktop ♥
 
 30 Projects to Improve your HTML and CSS Skills.
 
