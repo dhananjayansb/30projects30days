@@ -1,0 +1,68 @@
+*{
+    margin: 0; padding: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: sans-serif;
+}
+
+input{
+    width: 30rem;
+    height: 2rem;
+    padding: 10px;
+    font-size: 22px;
+    border: solid 2px rgb(17, 132, 255);
+    outline: none;
+}
+
+button{
+    width: 100px;
+    height: 57px;
+    border: none;
+    background:rgb(17, 132, 255);
+    margin: 3px;
+    color: white;
+    font-size: 25px;
+    cursor: pointer;
+    border-radius: .7px;
+}
+
+.far
+{
+    font-size: 28px; padding: 10px;
+}
+
+.tooltip
+{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 180px;
+    height: 50px;
+    font-size: 22px;
+    padding: 10px;
+    border-radius: 10px;
+    top: 5rem;
+    right: 11.8rem;
+    color: white;
+    background: rgb(17, 132, 255);
+    opacity: 0;
+    transition: .5s;
+}
+
+.tooltip::after
+{
+    position: absolute;
+    content: "";
+    width: 25px;
+    height: 25px;
+    top: -8px;
+    right: 50px;
+    background: rgb(17, 132, 255);
+    transform: rotate();
+}
