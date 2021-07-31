@@ -33,3 +33,4 @@ Will be Updated Daily until 30 Days.
 | 24       | [Navbar Animation](https://github.com/dhananjayansb/30Projects30Days/tree/master/24-navbar-animation)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/24-navbar-animation/)
 | 25       | [Password Validation](https://github.com/dhananjayansb/30Projects30Days/tree/master/25-password-validation)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/25-password-validation/)
 | 26       | [Copy Text to Clipboard](https://github.com/dhananjayansb/30Projects30Days/tree/master/26-copy-text-clipboard)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/26-copy-text-clipboard/)
+| 27       | [Password Generator](https://github.com/dhananjayansb/30Projects30Days/tree/master/27-password-generator)      | [Live Demo](https://dhananjayansb.github.io/30projects30days/27-password-generator/)
